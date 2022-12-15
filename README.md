@@ -1,4 +1,4 @@
-<h2 align="center">Python Data Science Handbook - Notes</h1>
+<h2 align="center">Python Data Science Handbook</h1>
 
 <p align="center">
   <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Book</a>
